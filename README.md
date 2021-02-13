@@ -5,7 +5,7 @@ Give users roles by letting them react to messages!
 ## Bot Status (On bot listing pages
 [![Discord Bots](https://top.gg/api/widget/708096305477451846.svg)](https://top.gg/bot/708096305477451846)
 [![Bots for Discord](https://botsfordiscord.com/api/bot/708096305477451846/widget)](https://botsfordiscord.com/bots/708096305477451846)
-
+[![inbbots](http://inbbotlist.com/api/v1/bots/708096305477451846/widget?size=large)](http://inbbotlist.com/api/v1/bots/708096305477451846/widget?size=large)
 
 ## How it works?
 
